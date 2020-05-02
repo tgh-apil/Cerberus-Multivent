@@ -64,7 +64,40 @@ A mathematical model of the system along with a simulator have been created for 
 
 2. <a href="https://ventilator-simulator.now.sh/" rel="nofollow">Simulator</a>  
 
-Developed by Eitan Grinspun, Bai Li, Isaac Wallace at the Department of Computer Science, University of Toronto
+Developed by Azad Mashari, Eitan Grinspun, Bai Li, Isaac Waller, Jim Duffin, Devin Singh
 
+# Development Team &amp; Collaborators
+
+The Cerberus multi-vent is based on a design first presented by Sommer, Fisher et al. **Sommer DD, Fisher JA, Ramcharan V, Marshall S, Vidic DM. Improvised automatic lung ventilation for unanticipated emergencies. Crit Care Med. 1994;22: 705–709.** You can find a personal account from Dr. Joe Fisher of how the project came about <a href="https://www.drjoefisher.com/posts/fresh-air-cbc-may-9-2020-covid-19-and-the-real-back-story" rel="nofollow">here</a> 
+
+**Core Development Team**: Jay Han, Devin Singh, Joseph Fisher, and Azad Mashari, From the Department of Anesthesia and Pain Management, Toronto General Hospital, University Health Network.
+
+**Review & Evaluation**: Jose Dianti, Ewan Goligher, Michael Long, William Ng, Marcin Wasowicz, David Priess, Alex Vesely, Robert Kacmarek, Shaf Keshavjee, Maha Al-Mandhari, Jesse May, Laurent Brochard, and Arthur Slutsky, from the Departments of Anesthesiology and Pain Management, Critical Care Medicine, Respiratory Care, Surgery and Medicine at University Health Network & St. Michaels Hospital, Toronto; Hospital Italiano de Buenos Aires, Argentina; Brigham and Women’s Hospital, Boston; Surrey Memorial Hospital, Surrey. 
+
+Development was supported by grants from the **University Health Network & Sinai Health Systems Academic Medical Organization COVID-19 Innovation Fund** and the **Peter Munk Cardiac Center Foundation** at the University Health Network. This work would not have been possible without hundreds of hours of work and the extreme dedication of over a 100 collaborators and supporters including:
+
+UHN Department of Anesthesia and Pain Management Research Group: Jo Carroll, Samareh Ajami
+
+UHN/PMCC Lynn and Arnold Irwin Advanced Perioperative Imaging Lab: Joshua Qua Hiansen, Vahid Anwari
+
+UHN Medical Engineering: Maciej Bauer, Gad Acosta, Dave Gretzinger, Ewaryst Kulikowski, Katina DiBiase
+
+University of Toronto Engineering / Toronto Tool Library Collaboration: Kate Kazlovich, James Wallace, Mark Shu-Lutman, Kyle Mayers, Simon Lynch 
+
+Techna Institute: Jimmy Qiu and Team
+
+UHN Animal Lab: Dr. Badru Moloo, Dr. Alyssa Goldstein, Beth Pielsticker, Sandra Lafrance and Team
+
+UHN Human Factors: Dr. Joe Cafazzo, Neil Sokol, Wayne Ho, Julie Malone
+
+University of Toronto Computer Science: U of T CS Department: Dr. Eitan Grinspun, Bai Li, Isaac Wallace
+
+UHN Infection Prevention and Control and Medical Device Reporcessing: AnnMarie Tyson, Kathleen Ross, Alon Vaisman, Kevin Wan
+
+PMCC Foundation: Shauna Seabrook
+
+UHN Public Affairs: Rosa Kim
+
+Thank you!
 
 
