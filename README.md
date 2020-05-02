@@ -62,5 +62,7 @@ A mathematical model of the system along with a simulator have been created for 
 
 2. <a href="https://ventilator-simulator.now.sh/" rel="nofollow">Simulator</a>  
 
+Developed by Eitan Grinspun, Bai Li, Isaac Wallace at the Department of Computer Science, University of Toronto
+
 
 
