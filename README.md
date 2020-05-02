@@ -60,7 +60,7 @@ A mathematical model of the system along with a simulator have been created for 
 
 1. <a href="https://github.com/tgh-apil/Cerberus-Multivent/tree/master/Simulator" rel="nofollow">Mathematical Model</a>
 
-2. <a href="https://ventilator-simulator.now.sh/" rel="nofollow">**Simulator**</a>  
+2. <a href="https://ventilator-simulator.now.sh/" rel="nofollow">Simulator</a>  
 
 
 
