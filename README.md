@@ -74,27 +74,27 @@ The Cerberus multi-vent is based on a design first presented by Sommer, Fisher e
 
 Development was supported by grants from the **University Health Network & Sinai Health Systems Academic Medical Organization COVID-19 Innovation Fund** and the **Peter Munk Cardiac Center Foundation** at the University Health Network. This work would not have been possible without the logistical support and hundreds of hours of work from numerous collaborators including:
 
-UHN Medical Engineering: Maciej Bauer, Gad Acosta, Dave Gretzinger, Ewaryst Kulikowski, Katina DiBiase
+**UHN Medical Engineering**: Maciej Bauer, Gad Acosta, Dave Gretzinger, Ewaryst Kulikowski, Katina DiBiase
 
-University of Toronto Engineering / Toronto Tool Library Collaboration: Kate Kazlovich, James Wallace, Marc Shu-Lutman, Kyle Mayers, Simon Lynch 
+**University of Toronto Engineering / Toronto Tool Library Collaboration**: Kate Kazlovich, James Wallace, Marc Shu-Lutman, Kyle Mayers, Simon Lynch 
 
-HN Department of Anesthesia and Pain Management: Jo Carroll, Samareh Ajami
+**UHN Department of Anesthesia and Pain Management**: Jo Carroll, Samareh Ajami
 
-UHN/PMCC Lynn and Arnold Irwin Advanced Perioperative Imaging Lab: Joshua Qua Hiansen, Vahid Anwari
+**UHN/PMCC Lynn and Arnold Irwin Advanced Perioperative Imaging Lab**: Joshua Qua Hiansen, Vahid Anwari
 
-Techna Institute: Jimmy Qiu and Team
+**Techna Institute**: Jimmy Qiu and Team
 
-UHN Animal Lab: Badru Moloo, Alyssa Goldstein, Beth Pielsticker, Sandra Lafrance and Team
+**UHN Animal Lab**: Badru Moloo, Alyssa Goldstein, Beth Pielsticker, Sandra Lafrance and Team
 
-UHN Human Factors: Joe Cafazzo, Neil Sokol, Wayne Ho, Julie Malone
+**UHN Human Factors**: Joe Cafazzo, Neil Sokol, Wayne Ho, Julie Malone
 
-University of Toronto Computer Science: U of T CS Department: Eitan Grinspun, Bai Li, Isaac Waller
+**University of Toronto Computer Science**: U of T CS Department: Eitan Grinspun, Bai Li, Isaac Waller
 
-UHN Infection Prevention and Control and Medical Device Reporcessing: AnnMarie Tyson, Kathleen Ross, Alon Vaisman, Kevin Wan
+**UHN Infection Prevention and Control and Medical Device Reporcessing**: AnnMarie Tyson, Kathleen Ross, Alon Vaisman, Kevin Wan
 
-PMCC Foundation: Shauna Seabrook
+**PMCC Foundation**: Shauna Seabrook
 
-UHN Public Affairs: Rosa Kim
+**UHN Public Affairs**d: Rosa Kim
 
 Thank you!
 
