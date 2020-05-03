@@ -94,7 +94,7 @@ Development was supported by grants from the **University Health Network & Sinai
 
 **PMCC Foundation**: Shauna Seabrook
 
-**UHN Public Affairs**d: Rosa Kim
+**UHN Public Affairs**: Rosa Kim
 
 Thank you!
 
