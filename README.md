@@ -13,18 +13,20 @@ We have made every effort to make the system as safe as possible and to
 provide documentation and educational materials for its use, should it be
 necessary, in order to minimize the very significant risks of iatrogenic harm.
 
-It has significant potential for causing harm  even in the hands of highly
-skilled and experienced clinicians. Any clinical application requires close
-monitoring of patients by automated system and living, breathing care providers
-familiar with the system.
+Any clinical application requires close monitoring of patients by automated 
+systems and living, breathing care providers familiar with the system and its 
+hazards.
 
 It is posted here in order to faciliate rapid knowledge sharing and research
-on strategies for addressing the global ventilator shortage during pandemics.
+on strategies for addressing the global ventilator shortages.
 
 Any of use of this device is done purely at your own risk and liability. The
 developers and associated insititutions do not accept any liability for its use.
 
 **In an ideal world, such a device would never be used on living beings.**
+
+# Publications
+1. <a href="https://journals.lww.com/ccejournal/Fulltext/2020/05000/Personalized_Ventilation_to_Multiple_Patients.3.aspx?context=LatestArticles" rel="nofollow" target="_blank">Han JS, Mashari A, Singh D, Dianti J, Goligher E, Long M, Ng W, Wasowicz M, Preiss D, Vesely A, Kacmarek R, Keshavjee S, Brochard L, Fisher JA, Slutsky AS. Personalized Ventilation to Multiple Patients Using a Single Ventilator: Description and Proof of Concept. Critical Care Explorations. 2020 May;2(5):e0118.</a>
 
 # Documentation
 Cerberus was originally designed to allow complete assembly using commercial off-the-shelf (COTS) ventilator circuit components. In addition to this original version, we created two custom components to make the system more robust and allow the adjustment of PEEP for each patient. Custom component design files can be found in the repository.
@@ -72,7 +74,7 @@ The Cerberus multi-vent is based on a design first presented by Sommer, Fisher e
 
 **Review & Evaluation**: Jose Dianti, Ewan Goligher, Michael Long, William Ng, Marcin Wasowicz, David Priess, Alex Vesely, Arnaud Mbadjeu, Robert Kacmarek, Shaf Keshavjee, Maha Al-Mandhari, Jesse May, Laurent Brochard, and Arthur Slutsky, from the Departments of Anesthesiology and Pain Management, Critical Care Medicine, Respiratory Care, Surgery and Medicine at University Health Network & St. Michaels Hospital, Toronto; Hospital Italiano de Buenos Aires, Argentina; Brigham and Women’s Hospital, Boston; Surrey Memorial Hospital, Surrey. 
 
-Development was supported by grants from the **University Health Network & Sinai Health Systems Academic Medical Organization COVID-19 Innovation Fund** and the **Peter Munk Cardiac Center Foundation** at the University Health Network. This work would not have been possible without the logistical support and hundreds of hours of work from numerous collaborators including:
+Development was supported by grants from the **University Health Network & Sinai Health Systems Academic Medical Organization COVID-19 Innovation Fund** and the **Toronto General & Western Hospital Foundation** at the University Health Network. This work would not have been possible without the logistical support and hundreds of hours of work from numerous collaborators including:
 
 **UHN Medical Engineering**: Maciej Bauer, Gad Acosta, Dave Gretzinger, Ewaryst Kulikowski, Katina DiBiase
 
@@ -80,19 +82,20 @@ Development was supported by grants from the **University Health Network & Sinai
 
 **UHN Department of Anesthesia and Pain Management**: Jo Carroll, Samareh Ajami
 
-**UHN/PMCC Lynn and Arnold Irwin Advanced Perioperative Imaging Lab**: Joshua Qua Hiansen, Vahid Anwari
+**UHN/Peter Munk Cardiac Centre,
+ Lynn and Arnold Irwin Advanced Perioperative Imaging Lab**: Joshua Qua Hiansen, Vahid Anwari
 
 **Techna Institute**: Jimmy Qiu and Team
 
 **UHN Animal Lab**: Badru Moloo, Alyssa Goldstein, Beth Pielsticker, Sandra Lafrance and Team
 
-**UHN Human Factors**: Joe Cafazzo, Neil Sokol, Wayne Ho, Julie Malone
+**UHN Healthcare Human Factors**: Joe Cafazzo, Neil Sokol, Wayne Ho, Julie Malone
 
 **University of Toronto Computer Science**: U of T CS Department: Eitan Grinspun, Bai Li, Isaac Waller
 
 **UHN Infection Prevention and Control and Medical Device Reporcessing**: AnnMarie Tyson, Kathleen Ross, Alon Vaisman, Kevin Wan
 
-**PMCC Foundation**: Shauna Seabrook
+**Peter Munk Cardiac Centre Foundation**: Shauna Seabrook
 
 **UHN Public Affairs**: Rosa Kim
 
