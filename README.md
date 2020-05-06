@@ -95,7 +95,7 @@ Development was supported by grants from the **University Health Network & Sinai
 
 **UHN Infection Prevention and Control and Medical Device Reporcessing**: AnnMarie Tyson, Kathleen Ross, Alon Vaisman, Kevin Wan
 
-**Peter Munk Cardiac Centre Foundation**: Shauna Seabrook
+**Toronto General & Western Hospital Foundation**: Shauna Seabrook
 
 **UHN Public Affairs**: Rosa Kim
 
