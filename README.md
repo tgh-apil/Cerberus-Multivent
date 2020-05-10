@@ -17,11 +17,11 @@ Any clinical application requires close monitoring of patients by automated
 systems and living, breathing care providers familiar with the system and its 
 hazards.
 
-It is posted here in order to faciliate rapid knowledge sharing and research
+It is posted here in order to facilitate rapid knowledge sharing and research
 on strategies for addressing the global ventilator shortages.
 
 Any of use of this device is done purely at your own risk and liability. The
-developers and associated insititutions do not accept any liability for its use.
+developers and associated institutions do not accept any liability for its use.
 
 **In an ideal world, such a device would never be used on living beings.**
 
