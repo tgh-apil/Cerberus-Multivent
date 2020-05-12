@@ -25,8 +25,10 @@ developers and associated institutions do not accept any liability for its use.
 
 **In an ideal world, such a device would never be used on living beings.**
 
-# Publications
+# Publications & Media
 1. <a href="https://journals.lww.com/ccejournal/Fulltext/2020/05000/Personalized_Ventilation_to_Multiple_Patients.3.aspx?context=LatestArticles" rel="nofollow" target="_blank">Han JS, Mashari A, Singh D, Dianti J, Goligher E, Long M, Ng W, Wasowicz M, Preiss D, Vesely A, Kacmarek R, Keshavjee S, Brochard L, Fisher JA, Slutsky AS. Personalized Ventilation to Multiple Patients Using a Single Ventilator: Description and Proof of Concept. Critical Care Explorations. 2020 May;2(5):e0118.</a>
+2. <a href="https://www.cbc.ca/listen/live-radio/1-193-fresh-air/clip/15775663-how-a-doctor-used-his-mentors-30-year-old-paper-to-make-a-split-ventilator-for-two-people" rel="nofollow" target="_blank">How a doctor used his mentor’s 30-year-old paper to make a split ventilator for two people. Fresh Air with Nana aba Duncan. Toronto: Canadian Broadcasting Corporation; 2020.</a>
+
 
 # Documentation
 Cerberus was originally designed to allow complete assembly using commercial off-the-shelf (COTS) ventilator circuit components. In addition to this original version, we created two custom components to make the system more robust and allow the adjustment of PEEP for each patient. Custom component design files can be found in the repository.
