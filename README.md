@@ -1,5 +1,9 @@
-# DISCLAIMER
+# Cerberus-Multivent
+A system using standard ventilation circuit parts and localy-manufacturable custom components to allow the use of a single ventilator to support two patients.
+The system allows **independent control of tidal volume, FiO2, and PEEP for each patient**. 
+The sub-circuit for each patient is pressure isolated and separated by N99 filters from main ventilator. 
 
+# DISCLAIMER
 This is an **INVESTIGATIONAL MEDICAL DEVICE** being evaluated for use
 in hospital setting during **extreme crisis** leading to ventilator
 shortages.
