@@ -1,9 +1,13 @@
 # Cerberus-Multivent
 A system using standard ventilation circuit parts and localy-manufacturable custom components to allow the use of a single ventilator to support multiple patients.
+
 The system allows **independent control of tidal volume, FiO2, and PEEP for each patient**. 
+
 The sub-circuit for each patient is pressure isolated and separated by N99 filters from main ventilator. There is no theoretical limit on the number of secondary circuits possible. The effective limitations are physical space for patients and the maximum tidal volume and pressure deliverable by the primary ventilator.
+
 Supports pressure-limited volume control ventilation only. Patients must be deeply sedated with minimal spontaneous respitory activity.
-The Cerberus system is an open-source medical device project managed by the [Lynn and Arnold Irwin Advanced Perioperative Imaging Lab](https://apil.ca) at Toronto General Hospital, University Health Network.
+
+Cerberus-Multivent is an open-source medical device project managed by the [Lynn and Arnold Irwin Advanced Perioperative Imaging Lab](https://apil.ca) at Toronto General Hospital, University Health Network.
 
 # DISCLAIMER
 This is an **INVESTIGATIONAL MEDICAL DEVICE** being evaluated for use
