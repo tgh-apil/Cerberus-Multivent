@@ -65,7 +65,7 @@ Developed by Azad Mashari, Eitan Grinspun, Bai Li, Isaac Waller, Jim Duffin, Dev
 
 # Cerberus-multivent: System Description
 
-![Cerberus Schematic](Diagrams/Cerebrus Circuit - thumbnail.png)
+![Cerberus Schematic](https://raw.githubusercontent.com/tgh-apil/Cerberus-Multivent/master/Diagrams/Cerebrus%20Circuit%20-%20thumbnail.png)
 
 One suggested approach to the severe global shortage of ventilators during the current pandemic has been the splitting of ventilators in order to ventilate multiple patients with one device. The simplest version of this involves simply splitting the inspiratory and expiratory limbs of the circuit into a branch for each patient. Indeed a 3D-printable splitter device, the Prisma VEsper, was granted emergency approval by the FDA last week. This approach however poses significant risks and has a high likelihood of harming one or both patients. This motivated a joint statement by all the major critical
 care and related societies (<a href="https://www.apsf.org/news-updates/joint-statement-on-multiple-patients-per-ventilator" rel="nofollow" target="_blank">https://www.apsf.org/news-updates/joint-statement-on-multiple-patients-per-ventilator</a>) warning about the hazards of such an approach.
